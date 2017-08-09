@@ -20,7 +20,7 @@ public class CtxListener implements ServletContextListener
         try
         {  
             //Class.forName("oracle.jdbc.driver.OracleDriver");
-            //Connection con=DriverManager.getConnection("jdbc:oracle:thin:@localhost:1521:xe","VirtualClass","VirtualClass");         
+            //Connection con=DriverManager.getConnection("jdbc:oracle:thin:@localhost:1521:xe","skyline","skyline");         
 
             Class.forName("com.mysql.jdbc.Driver");
             con=DriverManager.getConnection("jdbc:mysql://localhost:3306/skyline","root","Nokia123@");
@@ -118,6 +118,7 @@ public class CtxListener implements ServletContextListener
                 e.printStackTrace();
         }  
     }   
+    @Override
     public void contextDestroyed(ServletContextEvent e) {
         try {
             con.close();

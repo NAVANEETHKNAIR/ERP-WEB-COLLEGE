@@ -87,7 +87,7 @@
                                   <button type="submit" class="btn btn-primary">Submit</button>
                                 </div>
                             </div>
-                             <a href="forgate.jsp">Forgate pass</a>
+                             <a href="forgate.jsp">Forgate password</a>
                         </form>
                     </div>
                 </div>

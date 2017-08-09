@@ -40,7 +40,7 @@
         msg="Student Successfully Registered. Password Send to given Email ID.";
         
         String subject="Student Successfully Registered";
-        String body="You are Registered Successfullly and Your User ID: "+r+" and Password: "+pw;
+        String body="You are Registered Successfullly  Plz loging on http://68.66.193.111 and Your User ID: "+r+" and Password: "+pw;
         final String aemail=application.getInitParameter("aemail");
         final String apass=application.getInitParameter("apass");
         try

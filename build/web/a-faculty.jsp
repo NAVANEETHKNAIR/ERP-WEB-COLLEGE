@@ -186,6 +186,10 @@
                                     <option value="BTech-CS2">BTech-CS2</option>
                                     <option value="BTech-CS3">BTech-CS3</option>
                                     <option value="BTech-CS4">BTech-CS4</option>
+                                    <option value="BTech-CE1">BTech-CE1</option>
+                                    <option value="BTech-CE2">BTech-CE2</option>
+                                    <option value="BTech-CE3">BTech-CE3</option>
+                                    <option value="BTech-CE4">BTech-CE4</option>
                                     <option value="BTech-IT1">BTech-IT1</option>
                                     <option value="BTech-IT2">BTech-IT2</option>
                                     <option value="BTech-IT3">BTech-IT3</option>
@@ -266,6 +270,10 @@
                                     <option value="BTech-CS2">BTech-CS2</option>
                                     <option value="BTech-CS3">BTech-CS3</option>
                                     <option value="BTech-CS4">BTech-CS4</option>
+                                    <option value="BTech-CE1">BTech-CE1</option>
+                                    <option value="BTech-CE2">BTech-CE2</option>
+                                    <option value="BTech-CE3">BTech-CE3</option>
+                                    <option value="BTech-CE4">BTech-CE4</option>
                                     <option value="BTech-IT1">BTech-IT1</option>
                                     <option value="BTech-IT2">BTech-IT2</option>
                                     <option value="BTech-IT3">BTech-IT3</option>
@@ -330,6 +338,10 @@
                                         <option value="BTech-CS2">BTech-CS2</option>
                                         <option value="BTech-CS3">BTech-CS3</option>
                                         <option value="BTech-CS4">BTech-CS4</option>
+                                        <option value="BTech-CE1">BTech-CE1</option>
+                                        <option value="BTech-CE2">BTech-CE2</option>
+                                        <option value="BTech-CE3">BTech-CE3</option>
+                                        <option value="BTech-CE4">BTech-CE4</option>
                                         <option value="BTech-IT1">BTech-IT1</option>
                                         <option value="BTech-IT2">BTech-IT2</option>
                                         <option value="BTech-IT3">BTech-IT3</option>

@@ -56,7 +56,7 @@
     msg="Faculty Successfully Registered. Faculty ID & Password Send to given Email ID.";
 
     String subject="Faculty Successfully Registered";
-    String body="You are Registered Successfullly and Your User ID: "+fid+" and Password: "+pw;
+    String body="You are Registered Successfullly and Your User ID  plz loging on site =http://68.66.193.111/   copy and past on url: "+fid+" and Password: "+pw;
     final String aemail=application.getInitParameter("aemail");
     final String apass=application.getInitParameter("apass");
     try
