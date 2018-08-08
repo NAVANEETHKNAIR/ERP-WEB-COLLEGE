@@ -10,8 +10,7 @@ The project allows Hod to schedule a test specifying time and set of questions f
 This project would be very useful for educational institutes where regular evaluation of students’ is required. Further it can also be useful for anyone who requires feedback based on objective type responses. Apart from this examination aspect, this project would be very useful for the placement department of the institutes to efficiently handle the student data in database that at present is maintained in the form of excel sheets manually.
 Since this software is being designed to serve as one point solution to online examinations and online record maintenance, this software will also help institutes to maintain the records of students  related activities like filtering of student data etc
  
+
  
- https://youtu.be/E0XsM_RByIY
  
- 
- [![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](https://youtu.be/E0XsM_RByIY)
+ [![Watch the video](https://github.com/rashidahmad03/ERP-WEB-COLLEGE/blob/master/skyline%20erp.JPG)](https://youtu.be/E0XsM_RByIY)
